@@ -36,6 +36,3 @@ Here are some ideas to get you started:
     <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
     <img alt="GitHub Activity Graph" width="98%" src="https://activity-graph.herokuapp.com/graph?username=MuhammadaminNet&theme=react-dark&area=true&hide_border=true&custom_title=Contributions%20Graph">
   </div>
-
-
-![snake gif](https://github.com/MuhammadaminNet/MuhammadaminNet/blob/output/github-contribution-grid-snake.svg)
