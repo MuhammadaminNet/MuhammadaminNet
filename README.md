@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <p align="center">
     <a href="https://github.com/MuhammadaminNet/readme-typing-svg">
         <img
-                src="https://readme-typing-svg.herokuapp.com?font=Jetbrainsmono&color=%2336BCF7&size=35&center=true&vCenter=true&lines=.NET+Developer&center=true&width=580&height=45"></a>
+                src="https://readme-typing-svg.herokuapp.com?font=Jetbrainsmono&color=%2336BCF7&size=40&center=true&vCenter=true&lines=.NET+Developer&center=true&width=600&height=50"></a>
 </p>
 
 <div align="center">
