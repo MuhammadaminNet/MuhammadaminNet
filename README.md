@@ -18,30 +18,6 @@ Here are some ideas to get you started:
 
 
 
-<p align="center">
-    <a href="https://github.com/MuhammadaminNet/readme-typing-svg">
-        <img
-                src="https://readme-typing-svg.herokuapp.com?font=Jetbrainsmono&color=%2336BCF7&size=40&center=true&vCenter=true&lines=.NET+Developer&center=true&width=600&height=50"></a>
-</p>
-
-<div align="center">
-    <!-- https://github.com/anuraghazra/github-readme-stats -->
-    <img alt="GitHub Stats" width="49%" src="https://github-readme-stats.vercel.app/api?username=MuhammadaminNet&theme=algolia&hide_border=true&count_private=true&show_icons=true">
-    <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
-    <img alt="GitHub Streak" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadaminNet&theme=algolia&hide_border=true">
-
-</div>
-
-<div align="center">
-    <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
-    <img alt="GitHub Activity Graph" width="98%" src="https://activity-graph.herokuapp.com/graph?username=MuhammadaminNet&theme=react-dark&area=true&hide_border=true&custom_title=Contributions%20Graph">
-  </div>
-
-
-
-
-
-
 ![header](https://capsule-render.vercel.app/api?type=waving&height=220&text=MUKHAMMADAMIN%20BURANBOYEV%20&desc=.NET%20SOFTWARE%20ENGINEER🙂&animation=fadeIn&fontSize=20&fontAlign=74&fontAlignY=38&descAlign=77&color=d0b0ff)
 
 <h3 align="center">
@@ -55,9 +31,9 @@ Here are some ideas to get you started:
 </p>
 
 <div align="center">
-    <!-- https://github.com/anuraghazra/github-readme-stats -->
+    <!-- https://github.com/MuhammadaminNet/github-readme-stats -->
     <img alt="GitHub Stats" width="49%" src="https://github-readme-stats.vercel.app/api?username=MuhammadaminNet&theme=algolia&hide_border=true&count_private=true&show_icons=true">
-    <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
+    <!-- https://github.com/MuhammadaminNet/github-readme-streak-stats -->
     <img alt="GitHub Streak" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadaminNet&theme=algolia&hide_border=true">
 
 </div>
