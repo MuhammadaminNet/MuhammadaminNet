@@ -1,10 +1,3 @@
-<p>
-    <img src="/assets/images/undraw_version_control_re_mg66.svg" align="right" width="300" />
-    I am a passionate full-stack software developer from Germany. I love complex and challenging projects and whenever I can, I contribute to various open source   projects. If you would like to learn more about me, please feel free to <a href="https://clemensbastian.de" target="_blank">contact me</a>.
-</p>
-
-
-
 ![header](https://capsule-render.vercel.app/api?type=waving&height=220&text=MUKHAMMADAMIN%20BURANBOYEV%20&desc=.NET%20SOFTWARE%20ENGINEER🙂&animation=fadeIn&fontSize=20&fontAlign=74&fontAlignY=38&descAlign=77&color=d0b0ff)
 
 <h3 align="center">
@@ -43,8 +36,6 @@
     <a href = "https://mail.google.com/mail/mburanboyevdev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </p>
 
-
-![snake gif](https://github.com/MuhammadaminNet/MuhammadaminNet/blob/output/github-contribution-grid-snake.svg)
 
 ## 🛠️ My favorite tools
 <div style="display: inline_block"><br>
@@ -107,5 +98,3 @@
         <img alt="Postman"
              src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"></a>
 </p>
-
-
